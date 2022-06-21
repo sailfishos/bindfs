@@ -2,7 +2,6 @@ Name:    bindfs
 Version: 1.13.10
 Release: 1
 Summary: Fuse filesystem to mirror a directory
-Group:   System Environment/Base
 License: GPLv2+
 URL:     https://github.com/sailfishos/bindfs
 Source0: %{name}-%{version}.tar.bz2
